@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614280009310",
+    "firebase_url": "https://test-c98b8.firebaseio.com",
+    "project_id": "test-c98b8",
+    "storage_bucket": "test-c98b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614280009310:android:da76229d6e2b896b",
+        "android_client_info": {
+          "package_name": "com.example.flutterstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614280009310-serg1rrcspar2mgjfk3bi34tqku7mp9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1LkQvxmeemsp2qBKraPboGr8ZSzJztlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
